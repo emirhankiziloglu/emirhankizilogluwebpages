@@ -12,3 +12,9 @@ wp-config.php
 .DS_Store
 node_modules/
 vendor/
+# --- Secrets & premium plugins ---
+wp-content/plugins/fluent-booking-pro/
+.env
+.env.*
+*.sql
+*.sql.gz
