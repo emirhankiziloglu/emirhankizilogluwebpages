@@ -1,0 +1,14 @@
+# WP çekirdek dışlamaları
+wp-content/cache/
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/backups/
+wp-content/ai1wm-backups/
+wp-content/languages/*.mo
+wp-config.php
+*.log
+*.sql
+.sentry*
+.DS_Store
+node_modules/
+vendor/
